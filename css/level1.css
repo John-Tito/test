@@ -1,0 +1,63 @@
+@charset "utf-8";
+body{
+	align-content: center;
+	padding: 20px;
+}
+p, pre, div {
+	font-family: 微软雅黑;
+	color: black;
+	margin: 20px;
+}
+a{
+	font-family: 微软雅黑;
+	color: black;
+	text-decoration-color: burlywood;
+}
+h1, h2, h3{
+	font-family: 微软雅黑;
+	color: black;
+}
+.sectionh {
+	font-weight: 800;
+}
+.sectionb {
+	font-size: 16;
+	padding: 10px;
+	display:inline-block;
+	white-space:nowrap;
+}
+.navimg {
+	width: 135px;
+	height: 34px;
+}
+#foot {
+	text-align: center;
+}
+hr{
+	align: left;
+	width: 80%;
+}
+
+.secimg {
+	width:225;
+	height:300;
+	vertical-align: middle;
+	padding-left:20px;
+	padding-right:20px;
+	float: left;
+}
+.logoimg{
+	alt: 22;
+	width: 113px;
+	height: 168;
+	float: left;
+	box-sizing: border-box;
+	clear: left;
+	opacity: 0.64;
+	vertical-align: middle;
+}
+#section{
+	width:100%;
+	border:0;
+	align:center;
+}

@@ -1,0 +1,26 @@
+09.07 下午1:07
+番剧推荐
+一级
+封面图片,番剧名称,剧集
+1,兽娘动物园https://bangumi.bilibili.com/anime/5796
+https://baike.baidu.com/item/兽娘动物园/20379001?fr=aladdin
+2,夏娃的时间https://bangumi.bilibili.com/anime/3339
+https://baike.baidu.com/item/夏娃的时间/1706562?fr=aladdin
+3,命运石之门https://bangumi.bilibili.com/anime/836
+https://baike.baidu.com/item/命运石之门/5812557
+4,无限的未知https://bangumi.bilibili.com/anime/2208
+https://baike.baidu.com/item/无限的未知/6146079?fr=aladdin
+5,电脑线圈https://bangumi.bilibili.com/anime/1294
+https://baike.baidu.com/item/%E7%94%B5%E8%84%91%E7%BA%BF%E5%9C%88
+6,虫师https://bangumi.bilibili.com/anime/1715
+https://baike.baidu.com/item/%E8%99%AB%E5%B8%88/4375859
+二级：
+0,介绍
+1,详细介绍，外链
+2,个人看法
+3,入口，b站链接
+主要配色：蓝色,huishe
+顶部：导航
+底部:address
+
+
